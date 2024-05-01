@@ -1,0 +1,24 @@
+@media screen (min-width: 320px) and (max-width: 375px) {
+  .about {
+    font-family: "Gilroy", sans-serif;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 1;
+    letter-spacing: -0.02em;
+    color: #0c0c0c;
+  }
+
+  .us-div {
+    border-radius: 30px;
+    width: 335px;
+    height: 446px;
+    background: #f3f3f3;
+  }
+
+  .catalog {
+    width: 160px;
+    height: 48px;
+    border-radius: 16px;
+    background: #3350e9;
+  }
+}
